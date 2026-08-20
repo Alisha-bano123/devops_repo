@@ -1,2 +1,6 @@
 hello I am working on git 
+<<<<<<< HEAD
 learning about git and github.i am learning on merge concept
+=======
+asdfghmkjjmkknjhjvhcgxgxgc
+>>>>>>> feature
