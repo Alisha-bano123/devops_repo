@@ -1,2 +1,2 @@
 hello I am working on git 
-learning about git and github.
+learning about git and github.i am learning on merge concept
